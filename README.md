@@ -1,0 +1,3 @@
+Código completo de ejemplo sobre [cómo utilizar inyección de dependencias en aplicación .NET de consola C#](https://www.codearco.net/tutoriales/dotnet/inyeccion-dependencias-aplicacion-consola-net-csharp/). En el artículo enlazado se explica detalladamente cada uno de los pasos necesarios así como las ventajas o inconvenientes de utilizar este patrón de diseño de software.
+
+Full example code on [how to use dependency injection in a C# .NET console application](https://www.codearco.net/en/tutorials/dotnet-en/dependency-injection-console-application-net-csharp/). The linked article explains in detail each of the necessary steps, as well as the advantages and disadvantages of using this software design pattern.
